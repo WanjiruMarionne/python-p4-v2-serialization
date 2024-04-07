@@ -67,7 +67,7 @@ $ flask db upgrade head
 Run the following command to seed the table with sample data:
 
 ```command
-$ python seed.py
+$ python3 seed.py
 ```
 
 Use the Flask shell to confirm 10 random random pets have been added to the
